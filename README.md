@@ -1,7 +1,7 @@
 # Castlevania CPU Co-op Mod
 
 > ## Credits: the co-op mod is MateriaShrine's
-> **The original NES Castlevania co-op ROM hack was created entirely by [MateriaShrine](https://github.com/MateriaShrine). All credit for the co-op mod goes to them.**
+> **The original NES Castlevania co-op ROM hack was created entirely by MateriaShrine. All credit for the co-op mod goes to them.**
 > This project is only an *addition* on top of their work. Without MateriaShrine's co-op patch, none of this would exist. Please support their work.
 
 ## What this is
