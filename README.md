@@ -19,7 +19,7 @@ Levels end when the human player reaches the exit door, so the CPU alone can't f
 
 ## How to install (one patch, nothing else needed)
 
-This is a **standalone patch**. You do **not** need MateriaShrine's co-op patch: their co-op changes are already included in this patch (with their permission and full credit to them). This repository contains only patches and source code, no ROMs.
+This is a **standalone patch**. You do **not** need MateriaShrine's co-op patch: their co-op changes are already included in this patch. This repository contains only patches and source code, no ROMs.
 
 You need one thing: a regular, unmodified **Castlevania (USA) Rev 1** ROM.
 - File size: 131,088 bytes
@@ -40,7 +40,7 @@ The finished ROM has MD5 `10fba4c7e1e2fadd85e35c298c052228`.
 ## Contents
 
 - `patch/`: the standalone IPS patch (v8) and `apply_patch.py`
-- `src/`: CPU partner code (`tactics.s`, `nav.inc`, `stairs.inc`, `masks.inc`), build scripts (`build8.py`, `lives.py`, `title.py`) and config files. Assembled with ca65/ld65 (cc65). These are the author's working build scripts and their file paths will need adjusting.
+- `src/`: CPU partner code (`tactics.s`, `nav.inc`, `stairs.inc`, `masks.inc`), build scripts (`build8.py`, `lives.py`, `title.py`) and config files. Assembled with ca65/ld65 (cc65). These are the author's working build scripts, and their file paths will need adjusting.
 
 ## Credits and thanks
 
