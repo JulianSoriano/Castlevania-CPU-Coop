@@ -18,13 +18,10 @@ The CPU only does its own thing when you are dead, and levels end when the human
 
 ## How to use
 
-This repository contains **only the patch and source code, no ROMs**.
+**Important: the current patch will NOT work on a plain Castlevania ROM or on MateriaShrine's co-op ROM.**
+`patch/Castlevania_CPU_Co-op_Mod_v8.ips` was built against an earlier "v1" CPU co-op ROM, so applying it to any other ROM gives a broken game with no CPU partner. An earlier version of this page said to use MateriaShrine's co-op ROM; that was wrong.
 
-1. Get MateriaShrine's Castlevania Co-op ROM (from their release).
-2. Apply `patch/Castlevania_CPU_Co-op_Mod_v8.ips` to that ROM with any IPS patcher (for example Floating IPS).
-3. Play it in an NES emulator.
-
-The patch is made against MateriaShrine's co-op ROM, not the unmodified Konami game.
+A standalone patch that applies to a regular Castlevania ROM is being prepared and will replace this one. This repository contains only patches and source code, no ROMs.
 
 ## Contents
 
